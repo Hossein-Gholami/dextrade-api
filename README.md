@@ -1,3 +1,6 @@
 # dextrade-api
 
-## TODO: update README.md
+### TODO:
+- Update README.md
+- Add comment to :class:DexTrade
+- Clean src code
